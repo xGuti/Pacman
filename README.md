@@ -13,8 +13,8 @@ Unity project of Pacman game
  - Unity
 
 # Tasks
- - Map
- - Player movement and animation
+ - Map ✔️
+ - Player movement and animation ⏳
  - Small dots points
  - GUI
  - Enemies objects
