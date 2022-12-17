@@ -31,6 +31,6 @@ Unity project of Pacman game
    
 # Additional materials:
   - Free assets: https://vladpenn.itch.io/pacman
-  - Ghost AI: v.to/code2bits/pac-man-patterns--ghost-movement-strategy-pattern-1k1a
+  - Ghost AI: https://dev.to/code2bits/pac-man-patterns--ghost-movement-strategy-pattern-1k1a
   - Ghost AI: https://gameinternals.com/understanding-pac-man-ghost-behavior
   - Pathfinding algorithms: https://iopscience.iop.org/article/10.1088/1742-6596/1566/1/012061/pdf
