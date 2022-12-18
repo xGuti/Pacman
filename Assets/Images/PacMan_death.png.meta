@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 290bcc689f61413478843b5898582822
+guid: de43f5f76cfc528448b857c97b991b18
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -129,7 +129,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PacMan_0
+      name: PacMan_death_0
       rect:
         serializedVersion: 2
         x: 0
@@ -143,14 +143,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 140797cc3bbdf2545bea7977eb01f8d8
-      internalID: 1551605641
+      spriteID: b3e753453ca0ca04bad91d933b623f60
+      internalID: 1481996744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacMan_1
+      name: PacMan_death_1
       rect:
         serializedVersion: 2
         x: 16
@@ -164,14 +164,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8360fc0de6d9f647942dac483414bd5
-      internalID: 833206352
+      spriteID: e168331751d2efa41ba1ee71e44f0837
+      internalID: 1486834368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacMan_2
+      name: PacMan_death_2
       rect:
         serializedVersion: 2
         x: 32
@@ -185,14 +185,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6ca18ba339dc6b46adb7d20f3e2d664
-      internalID: 2077882462
+      spriteID: 71c68a464d82abe4aa9a82d55aa15cd7
+      internalID: 1077502624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacMan_3
+      name: PacMan_death_3
       rect:
         serializedVersion: 2
         x: 48
@@ -206,14 +206,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82b0ece7bbef496448c2d28b35d0fd9c
-      internalID: -1204187100
+      spriteID: 261d2b9295c3c9149aec221769db4890
+      internalID: -1911525120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacMan_4
+      name: PacMan_death_4
       rect:
         serializedVersion: 2
         x: 64
@@ -227,14 +227,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3bbdef529adecd6479155159a792ea63
-      internalID: -2034983161
+      spriteID: eb6e411b703f97840949606879002f31
+      internalID: 496549390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacMan_5
+      name: PacMan_death_5
       rect:
         serializedVersion: 2
         x: 80
@@ -248,14 +248,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93d57165cbcb5be40aefc39117227188
-      internalID: 455366160
+      spriteID: 74738517cee8f0b4991b6bcf4da7f9c1
+      internalID: 2131942334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacMan_6
+      name: PacMan_death_6
       rect:
         serializedVersion: 2
         x: 96
@@ -269,14 +269,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb5838f96c7b1ff4982f38262c7b2480
-      internalID: 24650893
+      spriteID: 96988e5191f812f41a09dea0f29dfed2
+      internalID: 37897590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacMan_7
+      name: PacMan_death_7
       rect:
         serializedVersion: 2
         x: 112
@@ -290,8 +290,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3aac91ed76c9f684fb0efc39397ca4a2
-      internalID: 1546086144
+      spriteID: 2fa65553a7e5e5a4fabfb3d10a60c9a2
+      internalID: 831592819
       vertices: []
       indices: 
       edges: []
@@ -307,14 +307,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PacMan_4: -2034983161
-      PacMan_6: 24650893
-      PacMan_7: 1546086144
-      PacMan_3: -1204187100
-      PacMan_0: 1551605641
-      PacMan_2: 2077882462
-      PacMan_1: 833206352
-      PacMan_5: 455366160
+      PacMan_death_5: 2131942334
+      PacMan_death_6: 37897590
+      PacMan_death_2: 1077502624
+      PacMan_death_1: 1486834368
+      PacMan_death_4: 496549390
+      PacMan_death_3: -1911525120
+      PacMan_death_7: 831592819
+      PacMan_death_0: 1481996744
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
