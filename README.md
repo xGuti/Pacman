@@ -1,7 +1,7 @@
 # Pacman
- Gamedev challenge #6
+ Gamedev challenge #7
 
-Project number #6 of gamedev practice challenge inspirated by https://gamefromscratch.com/just-starting-out-what-games-should-i-make/ .
+Project number #7 of gamedev practice challenge inspirated by https://gamefromscratch.com/just-starting-out-what-games-should-i-make/ .
 
 # Title
 Pacman
